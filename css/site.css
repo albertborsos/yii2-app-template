@@ -1,0 +1,17 @@
+body {
+    background-image: url('http://www.borsosalbert.hu/uploads/1383646148-shattered.jpg');
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 3/2),
+only screen and (min--moz-device-pixel-ratio: 1.5),
+only screen and (min-device-pixel-ratio: 1.5) {
+    body {
+        background-image:url('http://www.borsosalbert.hu/uploads/1385232887-shattered-@2x.jpg');
+        background-size:500px 500px;
+    }
+}
+
+.content .header h3 a {
+    color: #3c3c3c;
+    text-decoration: none;
+}

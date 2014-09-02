@@ -1,0 +1,1 @@
+<footer class="footer">    <div class="container">        <p class="pull-left"><?= Yii::$app->name ?> <?= date('Y') ?></p>        <p class="pull-right"><?= \albertborsos\yii2lib\helpers\S::powered(); ?></p>    </div></footer>
