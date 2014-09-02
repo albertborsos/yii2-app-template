@@ -14,4 +14,4 @@ or clone it from here
 4. `composer install`
 5. edit `common/config/main.php` and `common/config/main-local.php` for DB settings
 6. update `frontend/config/main.php` and `frontend/config/main-local.php` urlManager baseUrl attribute
-7. migrate database by ``
+7. migrate database by `php yii migrate` > `yes`
