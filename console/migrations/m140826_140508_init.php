@@ -2,7 +2,7 @@
 
     use yii\db\Schema;
 
-    class m130524_201442_init extends \yii\db\Migration
+    class m140826_140508_init extends \yii\db\Migration
     {
         public function up()
         {
