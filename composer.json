@@ -55,7 +55,6 @@
         "albertborsos/yii2-lib": "*",
         "albertborsos/yii2-user": "*",
         "albertborsos/yii2-cms": "*",
-        "albertborsos/yii2-gii-templates": "*",
         "albertborsos/yii2-gallery": "*"
 	},
 	"require-dev": {
